@@ -1,6 +1,6 @@
 {
     "item.isleofberk.inferno":"سيف التنين",
-    "item.isleofberk.inferno.tooltip": "استخدم سيف التنين لإحراق عدوك لمدة 30 ثانية"
+    "item.isleofberk.inferno.tooltip": "استخدم سيف التنين لإحراق عدوك لمدة 30 ثانية",
     "item.isleofberk.astrid_axe": "فأس أستريد",
     "item.isleofberk.snoutlout_bludgeon": "مطرقة مخاط-جلف",
     "item.isleofberk.drago_bullhook": "عصا دراجو",
@@ -123,7 +123,7 @@
     "entity.isleofberk.nightfury": "غضب الليل",
     "entity.isleofberk.lightfury": "الغضب المضيء",
     
-    "advancements.isleofberk.berkdragons.root.title": "قيد الدراسة
+    "advancements.isleofberk.berkdragons.root.title": "قيد الدراسة",
     "advancements.isleofberk.berkdragons.root.description": "هل هذه حراشف تنين؟",
     "advancements.isleofberk.collect_all_boulder_scales.title": "ثقيل جدا!",
     "advancements.isleofberk.collect_all_boulder_scales.description": "لقد جمعتها كلها , حراشف صنف الصخرة!",
